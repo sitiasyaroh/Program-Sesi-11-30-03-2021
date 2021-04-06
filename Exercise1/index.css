@@ -1,0 +1,6 @@
+body {
+    height: auto;
+    justify-content: space-around;
+    flex-flow: wrap;
+    border: solid darkmagenta;
+  }
